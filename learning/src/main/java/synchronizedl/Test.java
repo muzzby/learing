@@ -1,4 +1,4 @@
-package src.main.java.synchronizedl;
+package synchronizedl;
 
 /**
  * @author byway

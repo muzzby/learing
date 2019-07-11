@@ -1,4 +1,5 @@
-package src.main.java.cas;
+package cas;
+
 
 /**
  * @author byway

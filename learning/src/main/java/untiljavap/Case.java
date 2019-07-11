@@ -1,4 +1,4 @@
-package src.main.java.untiljavap;
+package untiljavap;
 
 public class Case {
 

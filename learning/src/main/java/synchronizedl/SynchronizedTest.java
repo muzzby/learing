@@ -1,4 +1,4 @@
-package src.main.java.synchronizedl;
+package synchronizedl;
 
 public class SynchronizedTest {
     public static void main(String[] args){

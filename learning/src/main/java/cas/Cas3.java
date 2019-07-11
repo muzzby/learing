@@ -1,4 +1,4 @@
-package src.main.java.cas;
+package cas;
 
 import static jdk.nashorn.internal.runtime.regexp.joni.Config.log;
 
